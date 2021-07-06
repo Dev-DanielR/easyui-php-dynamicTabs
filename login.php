@@ -19,7 +19,7 @@
       flex-direction: column;
       justify-content: flex-end;
       align-items: center;
-      background-image: url("custom/images/rustic.jpg");
+      background-image: url("assets/custom/images/rustic.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position-x: center;

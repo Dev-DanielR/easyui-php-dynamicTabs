@@ -55,7 +55,7 @@
         grid-template-rows: 1fr 1fr;
       }
       #background {
-        background-image: url("custom/images/apple-portrait.jpg");
+        background-image: url("assets/custom/images/apple-portrait.jpg");
         background-position-x: center;
         background-position-y: center;
       }
@@ -70,7 +70,7 @@
         grid-template-rows: 1fr;
       }
       #background {
-        background-image: url("custom/images/apple.jpg");
+        background-image: url("assets/custom/images/apple.jpg");
         background-position-x: center;
         background-position-y: bottom;
       }

@@ -26,7 +26,7 @@
       width: 100vw;
       position: absolute;
       z-index: -1;
-      background-image: url("custom/images/rustic.jpg");
+      background-image: url("assets/custom/images/rustic.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position-x: center;
